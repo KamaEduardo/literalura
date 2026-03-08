@@ -14,7 +14,7 @@ O sistema funciona através de um menu interativo no terminal onde o utilizador 
 
 # 🚀 Tecnologias Utilizadas
 
-- Java 17
+- Java 21
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL
