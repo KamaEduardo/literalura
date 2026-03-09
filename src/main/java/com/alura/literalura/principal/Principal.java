@@ -46,11 +46,16 @@ public class Principal {
 0 - Sair
 
 =========================================
-
+Escolha uma opção:
 """);
 
-            opcao = leitura.nextInt();
-            leitura.nextLine();
+           try{
+            opcao = Integer.parseInt(leitura.nextLine());
+        }catch(NumberFormatException e){
+            System.out.println(" Digite apenas números!");
+            opcao = -1;
+            continue;
+        }
 
             switch (opcao){
 
