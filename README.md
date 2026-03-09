@@ -114,17 +114,10 @@ Menu exibido:
 
 ---
 
-# 📌 Exemplo de execução
+## Demonstração
 
-Digite o título do livro:
-Dracula
+![Execução do projeto](assets/literalura-demonstracao.gif)
 
-Livro salvo com sucesso!
-
-Título: Dracula
-Autor: Bram Stoker
-Idioma: en
-Downloads: 80000
 
 ---
 
